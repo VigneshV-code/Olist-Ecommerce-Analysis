@@ -206,10 +206,10 @@ RETURN
 3. Execute scripts in order (01 → 06)
 
 **To explore the Power BI dashboard:**
-1. Download `Olist_Dashboard.pbix`
-2. Open in Power BI Desktop (free)
+1. [📊 Download Power BI Dashboard (.pbix)](https://drive.google.com/file/d/15_vM6hpw1om-ans9KvGkxRIK4NBjtUTE/view?usp=sharing)
+2. Open in Power BI Desktop (free download from Microsoft)
 3. Connect to your local SQL Server instance with Olist data
-
+  
 **Dataset download:** [Kaggle — Olist Brazilian E-Commerce](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 
 ---
