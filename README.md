@@ -140,7 +140,7 @@ olist-ecommerce-analysis/
 
 ---
 
-## 📐 Power BI Data Model
+## 📊 Power BI Data Model
 
 **8 tables | 8 active relationships | 17 DAX measures**
 
@@ -209,7 +209,7 @@ RETURN
 1. [📊 Download Power BI Dashboard (.pbix)](https://drive.google.com/file/d/15_vM6hpw1om-ans9KvGkxRIK4NBjtUTE/view?usp=sharing)
 2. Open in Power BI Desktop (free download from Microsoft)
 
-  ** 💡 Note: ** Data is embedded in the .pbix.file. No SQL Server required to view the Dashboard, just Power BI Desktop (free) is enough. 
+  ** 💡 **Note: ** Data is embedded in the .pbix.file. No SQL Server required to view the Dashboard, just Power BI Desktop (free) is enough. 
   
 **Dataset download:** [Kaggle — Olist Brazilian E-Commerce](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 
@@ -219,7 +219,7 @@ RETURN
 
 **MBA Graduate | Aspiring Data Analyst**
 
-This project demonstrates end-to-end data analytics capability — from raw data ingestion through SQL analysis, Power BI dashboard design, and business recommendation. Built independently as a portfolio project to transition into a data analyst role.
+This project demonstrates end-to-end data analytics capability - from raw data ingestion through SQL analysis, Power BI dashboard design, and business recommendation. Built independently as a portfolio project to transition into a data role.
 
 **Skills demonstrated:** SQL Server · Power BI · DAX · Data Modelling · Business Analysis · Data Storytelling
 
