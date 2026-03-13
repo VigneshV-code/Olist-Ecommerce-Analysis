@@ -109,13 +109,13 @@ olist-ecommerce-analysis/
 
 ##  Tech Stack
 
-| Tool | Usage | Proficiency |
-|---|---|---|
-| **SQL Server** | Data cleaning, exploration, 5 core analyses | Advanced Intermediate |
-| **Power BI** | 4-page interactive dashboard, 13 DAX measures | Intermediate–Advanced |
-| **DAX** | YoY measures, CALCULATE, VAR patterns, SWITCH | Intermediate |
-| **Power Query** | Data transformation, calculated columns | Intermediate |
-| **Excel** | Initial data inspection, validation | Intermediate |
+| Tool | Usage |
+|---|---|
+| **SQL Server** | Data cleaning, exploration, 5 core analyses |
+| **Power BI** | 4-page interactive dashboard, 13 DAX measures | 
+| **DAX** | YoY measures, CALCULATE, VAR patterns, SWITCH |
+| **Power Query** | Data transformation, calculated columns | 
+| **Excel** | Initial data inspection, validation |
 
 ---
 
