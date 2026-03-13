@@ -15,7 +15,7 @@
 
 ---
 
-## 🎯 Business Problem
+##  Business Problem
 
 Olist operates as a Brazilian e-commerce marketplace connecting sellers to customers across all states. Despite strong revenue growth from 2016–2018, the platform faces three compounding challenges:
 
@@ -25,7 +25,7 @@ Olist operates as a Brazilian e-commerce marketplace connecting sellers to custo
 
 ---
 
-## 🔍 Business Questions Answered
+##  Business Questions Answered
 
 | # | Question |
 |---|----------|
@@ -37,7 +37,7 @@ Olist operates as a Brazilian e-commerce marketplace connecting sellers to custo
 
 ---
 
-## 🏆 Top Findings
+##  Top Findings
 
 ### 1. Freight Costs Are a Structural Margin Problem
 - Platform-wide freight ratio: **16.57%** of total revenue
@@ -71,7 +71,7 @@ Olist operates as a Brazilian e-commerce marketplace connecting sellers to custo
 
 ---
 
-## 💡 Recommendations
+##  Recommendations
 
 | Priority | Recommendation |
 |---|---|
@@ -107,7 +107,7 @@ olist-ecommerce-analysis/
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Tool | Usage | Proficiency |
 |---|---|---|
@@ -198,7 +198,7 @@ RETURN
 
 ---
 
-## 🚀 How to Use This Project
+##  How to Use This Project
 
 **To explore the SQL analysis:**
 1. Download the `.sql` files from the `/sql` folder
