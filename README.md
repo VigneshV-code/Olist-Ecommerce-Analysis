@@ -9,6 +9,8 @@
 > *4-page interactive Power BI dashboard — Executive Overview | Freight & Operations | Seller Performance | Customer Satisfaction*
 
 ![Executive Overview](screenshots/page1_executive_overview.png)
+![Freight and Operations](screenshots/page2_freight_operations.png)
+![Seller Performance](screenshots/page3_seller_performance.png)
 ![Customer Satisfaction](screenshots/page4_customer_satisfaction.png)
 
 ---
