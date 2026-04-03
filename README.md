@@ -207,7 +207,7 @@ RETURN
 
 **To explore the Power BI dashboard:**
 1. [📊 Download Power BI Dashboard (.pbix)](https://drive.google.com/file/d/15_vM6hpw1om-ans9KvGkxRIK4NBjtUTE/view?usp=sharing)
-2. Open in Power BI Desktop (free download from Microsoft) Click "Download" on the Google Drive page.
+2. 💡 Click "Download anyway" when prompted — file is 29MB, safe to download. Open with Power BI Desktop (free).
 
   ** 💡 **Note: ** Data is embedded in the .pbix.file. No SQL Server required to view the Dashboard, just Power BI Desktop (free) is enough. 
   
