@@ -217,7 +217,7 @@ RETURN
 
 ## 👤 About
 
-**MBA Graduate | Aspiring Data Analyst**
+**MBA Graduate | Junior Data Analyst**
 
 This project demonstrates end-to-end data analytics capability - from raw data ingestion through SQL analysis, Power BI dashboard design, and business recommendation. Built independently as a portfolio project to transition into a data role.
 
